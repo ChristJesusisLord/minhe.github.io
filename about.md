@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Min He, I am living in Charlotte, NC with my husband and three kids.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I am currently pursuing my Masters degree in Statistics at NCSU, I have finished 4 courses, and this is a course website for ST558. 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mhe8@ncsu.edu](mailto:mhe8@ncsu.edu)
